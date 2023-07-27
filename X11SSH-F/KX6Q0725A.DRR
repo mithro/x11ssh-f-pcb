@@ -1,0 +1,30 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: KX6Q0725A.PCB   2023/7/25  19:48:32
+---------------------------------------------------------------------------
+
+Layer Pair : TopLayer to BottomLayer
+ASCII RoundHoles File : KX6Q0725A.TXT
+EIA File   : KX6Q0725A.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          4972             478.86 Inch (12162.95 mm)
+T2        11.81mil (0.29997mm)     Round          201              62.83 Inch (1595.93 mm)
+T3        15.75mil (0.40005mm)     Round          308              85.89 Inch (2181.73 mm)
+T4        19.68mil (0.49987mm)     Round          100              53.40 Inch (1356.41 mm)
+T5        23.62mil (0.59995mm)     Round          1583             146.74 Inch (3727.21 mm)
+T6        27.56mil (0.70002mm)     Round          44               16.59 Inch (421.38 mm)
+T7        31.5mil (0.8001mm)       Round          51               23.80 Inch (604.56 mm)
+T8        32mil (0.8128mm)         Round          7                0.60 Inch (15.24 mm)
+T9        35.43mil (0.89992mm)     Round          298              103.00 Inch (2616.10 mm)
+T10       39.37mil (1mm)           Round          11               9.22 Inch (234.14 mm)
+T11       40mil (1.016mm)          Round          2                0.20 Inch (5.08 mm)
+T12       47.24mil (1.1999mm)      Round          16               7.66 Inch (194.57 mm)
+T13       51.18mil (1.29997mm)     Round          32               6.63 Inch (168.43 mm)
+T14       59.06mil (1.50012mm)     Round          10               11.33 Inch (287.77 mm)
+T15       86.61mil (2.19989mm)     Round          12               2.98 Inch (75.58 mm)
+T16       141.73mil (3.59994mm)    Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            7648             1009.73 Inch (25647.05 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:03

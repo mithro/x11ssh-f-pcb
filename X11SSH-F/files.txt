@@ -1,0 +1,27 @@
+File Extension		Description
+.APR			Aperture File
+.APT			Aperture File
+.EXTREP			Extension Report of Gerber Files
+.REP			Report of Individual Layer Used Aperture List
+.RUL			DRC Rules
+.GKO			Keep Out Layer
+.GTO			Top Overlay
+.GBO			Bottom Overlay
+.GPT			Pad Master Top
+.GPB			Pad Master Bottom
+.GTS			Top Solder
+.GBS			Bottom Solder
+.GTL			Top Layer
+.GBL			Bottom Layer
+.GTP			Top Paste
+.GBP			Bottom Paste
+.G1, .G2, etc.		Mid-layer 1, 2, etc.
+.GP1, .GP2, etc.	Internal Plane Layer 1, 2, etc.
+.P01, .P02, etc.	Gerber Panels
+.GM1, .GM2, etc.	Mechanical Layer 1, 2, etc.
+.GD1, .GD2, etc.	Drill Drawing
+.GG1, .GG2, etc.	Drill Guide
+.DRL			Drill Data
+.TXT			Drill Position
+.DRR			Drill Tool Size
+.LDP			Layer Pairs Export File for PCB

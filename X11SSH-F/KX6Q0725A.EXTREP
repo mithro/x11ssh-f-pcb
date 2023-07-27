@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: KX6Q0725A.GBR   2023/7/25  19:47:58
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                TopLayer                                
+.G1                 MidLayer1                               
+.G2                 MidLayer2                               
+.G3                 MidLayer3                               
+.G4                 MidLayer4                               
+.GBL                BottomLayer                             
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                TopOverlay                              
+.GTP                TopPaste                                
+.GTS                TopSolder                               
+.GBS                BottomSolder                            
+.GBP                BottomPaste                             
+.GBO                BottomOverlay                           
+.GKO                KeepOutLayer                            
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------
