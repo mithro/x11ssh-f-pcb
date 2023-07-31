@@ -1,0 +1,11 @@
+--2023-07-30 21:49:31--  https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
+Resolving creativecommons.org (creativecommons.org)... 104.20.150.16, 172.67.34.140, 104.20.151.16, ...
+Connecting to creativecommons.org (creativecommons.org)|104.20.150.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: ‘legalcode.txt.1’
+
+     0K .......... .........                                   68.9M=0s
+
+2023-07-30 21:49:32 (68.9 MB/s) - ‘legalcode.txt.1’ saved [20138]
+
